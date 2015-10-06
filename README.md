@@ -9,6 +9,7 @@ cat abc.xyc.txt | grep 'Alphabet' | cut -d' ' -f 1-4 | sort -r > poem.txt
 
 Generating this frightening poem:
 
+
 #####What is Alphabet? Alphabet  
 #####What could be better?  
 #####Sergey and I are  
