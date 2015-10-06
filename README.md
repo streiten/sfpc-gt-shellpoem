@@ -11,7 +11,7 @@ Generating this frightening poem:
 
 #####What is Alphabet? Alphabet  
 #####What could be better?  
-####äSergey and I are  
+#####Sergey and I are  
 #####Our company is operating  
 #####For Sergey and me  
 #####Alphabet is about businesses  
